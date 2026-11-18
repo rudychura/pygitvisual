@@ -2,7 +2,7 @@ public class Suma {
     public static int sumar(int a, int b) {
         return a + b;
     }
-
+    //FUNSION
     public static void main(String[] args) {
         int numero1 = 7;
         int numero2 = 5;
